@@ -1,2 +1,0 @@
-# animeku
-project tes1
